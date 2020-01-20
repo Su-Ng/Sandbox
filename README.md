@@ -20,7 +20,7 @@ I am exploring the what posTag can do.
 
 PosTags.ipynb
 
-pos_tag
+
 Thanks for reading! Hope you learnt something new! Happy coding!
 
 
