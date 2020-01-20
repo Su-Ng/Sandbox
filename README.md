@@ -16,6 +16,11 @@ What is tokenization? It is the process which text is broken down into tokens su
 
 make_tokens.ipynb
 
+I am exploring the what posTag can do.
+
+PosTags.ipynb
+
+pos_tag
 Thanks for reading! Hope you learnt something new! Happy coding!
 
 
