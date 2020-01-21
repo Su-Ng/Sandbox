@@ -29,6 +29,8 @@ df.isnull().values().any()
 df.isnull().sum().sum()
 df['Age].fillna(median, inplace=True)
 
+DealwithNA.ipynb
+
 Thanks for reading! Hope you learnt something new! Happy coding!
 
 
