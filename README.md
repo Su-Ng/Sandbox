@@ -24,7 +24,10 @@ What happens if there are missing values in yout dataset? In R some of the missi
 
 dealwithNA.r
 
-
+In Python one of the possible way of dealing with NA or missing values is by replacing it with the median value. The follwing Python script shows examples of using 
+df.isnull().values().any()
+df.isnull().sum().sum()
+df['Age].fillna(median, inplace=True)
 
 Thanks for reading! Hope you learnt something new! Happy coding!
 
