@@ -18,14 +18,17 @@ What is tokenization? It is the process which text is broken down into tokens su
 
 make_tokens.ipynb
 
+# Pos tag
 I am exploring the what posTag can do.
 
-# Pos tag 
+
 PosTags.ipynb
+
+# Dealing with NA values
 
 What happens if there are missing values in yout dataset? In R some of the missing values are coded by the symbol NA. To identify missing values in your database the function is is.na(). To deal with missing values is na.omit() which will delete missing incomplete observations. The following R script shows some examples of using is.na() and na.omit()
 
-# Dealing with NA values
+
 dealwithNA.r
 
 In Python one of the possible way of dealing with NA or missing values is by replacing it with the median value. The follwing Python script shows examples of using 
