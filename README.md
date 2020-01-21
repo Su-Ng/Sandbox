@@ -20,6 +20,11 @@ I am exploring the what posTag can do.
 
 PosTags.ipynb
 
+What happens if there are missing values in yout dataset? In R some of the missing values are coded by the symbol NA. To identify missing values in your database the function is is.na(). To deal with missing values is na.omit() which will delete missing incomplete observations. The following R script shows some examples of using is.na() and na.omit()
+
+dealwithNA.r
+
+
 
 Thanks for reading! Hope you learnt something new! Happy coding!
 
