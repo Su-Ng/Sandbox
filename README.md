@@ -1,5 +1,5 @@
 # Sandbox
-This is a simple repository to record any new code I learnt.
+This is a simple repository to record any new code I learnt. I am working on NLTK to learn more about Natural Language Processing and the various technics available in NLTK. Also I am working on Data Cleaning, which demands the highest and biggest application of time and effort for any data science projects. I like to explore both Python and R programming language as these are the two hottest language to learn in Data Science.  
 
 # Reading in CSV
 I created a new file to read csv data.
