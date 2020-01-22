@@ -16,7 +16,7 @@ https://www.kaggle.com/c/tmdb-box-office-prediction/data
 
 What is tokenization? It is the process which text is broken down into tokens such as words. I am using NLTK to tokenize words and sentences and removing punctuation in the following script in Python
 
-make_tokens.ipynb
+**make_tokens.ipynb**
 
 # Pos tag
 I am exploring the what posTag can do.
@@ -32,9 +32,11 @@ What happens if there are missing values in yout dataset? In R some of the missi
 dealwithNA.r
 
 In Python one of the possible way of dealing with NA or missing values is by replacing it with the median value. The follwing Python script shows examples of using 
+
 * df.isnull().values().any()
 * df.isnull().sum().sum()
 * df['Age].fillna(median, inplace=True)
+
 
 DealwithNA.ipynb
 
