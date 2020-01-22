@@ -31,7 +31,7 @@ What happens if there are missing values in yout dataset? In R some of the missi
 
 **dealwithNA.r**
 
-In Python one of the possible way of dealing with NA or missing values is by replacing it with the median value. The follwing Python script shows examples of using 
+In Python one of the possible way of dealing with NA or missing values is by replacing it with the median value. The following Python script shows examples of using 
 
 * df.isnull().values().any()
 * df.isnull().sum().sum()
