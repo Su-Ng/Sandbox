@@ -19,7 +19,7 @@ What is tokenization? It is the process which text is broken down into tokens su
 **make_tokens.ipynb**
 
 # Pos tag
-I am exploring the what posTag can do.\
+I am exploring the what posTag can do. This is the Pos Tags available. This method can return us the POS tag like verbs, pronouns. Here's the list of the possible posTags.
 
 **Abbreviation** | **Meaning** 
 --- | --- 
@@ -57,7 +57,7 @@ WDT | wh-determiner
 WP | wh-pronoun
 WRB | wh-adverb
 
-
+Here's a python script that shows an example of the use of Pos tags.
 **PosTags.ipynb**
 
 # Dealing with NA values
