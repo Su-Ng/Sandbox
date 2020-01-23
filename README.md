@@ -23,9 +23,39 @@ I am exploring the what posTag can do.\
 
 **Abbreviation** | **Meaning** 
 --- | --- 
-NN | nouns 
+CC | coordinating junction
+CD | cardinal digit
+DT | determinant
+EX | existential there
+FW | foreign word
+IN | preposition, subordinating conjunction
+JJ | adjective
+JJR | adjective, comparative
+JJS | adjective, superlative
+LS | list market
+MD | modal
+NN | noun
+NNS| nouns
+NNP | proper nouns
+NNPS | proper nouns, plural
+PDT | predeterminer
+POS | possessive ending
+PRP | personal pronoun
+PRP$ | possessive pronoun
+RB | adverb
+RBR | adverb, comparative
+RBR | adverb, superlative
+RP | particle
+TO | infinite marker
+UH |interjection
 VB | verb 
-
+VBG | verb gerund
+VBN | verb past participle
+VBP | verb, present tense not third person singular
+VBZ | verb, present tense with third person singular
+WDT | wh-determiner
+WP | wh-pronoun
+WRB | wh-adverb
 
 
 **PosTags.ipynb**
