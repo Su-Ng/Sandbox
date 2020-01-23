@@ -19,7 +19,7 @@ What is tokenization? It is the process which text is broken down into tokens su
 **make_tokens.ipynb**
 
 # Pos tag
-I am exploring the what posTag can do.
+I am exploring the what posTag can do.\
 Abbreviation|Meaning
 NN|noun
 NNS|nouns
