@@ -20,11 +20,11 @@ What is tokenization? It is the process which text is broken down into tokens su
 
 # Pos tag
 I am exploring the what posTag can do.\
-|Abbreviation|Meaning
-|------------|:------------|
-|NN|noun|
-|NNS|nouns|
-|VB|verb|
+
+**Abbreviation** | **Meaning** 
+--- | --- 
+NN | nouns 
+VB | verb 
 
 
 
