@@ -76,12 +76,13 @@ In Python one of the possible way of dealing with NA or missing values is by rep
 
 **DealwithNA.ipynb**
 
-Thanks for reading! Hope you learnt something new! Happy coding!
-
 
 # Learning how to use Machine Learning
 
 This is my learning journey to Machine Learning, using the knn K Nearest Neighbour
 
 **ModelLearningExample.ipynb**
+
+Thanks for reading! Hope you learnt something new! Happy coding!
+
 
