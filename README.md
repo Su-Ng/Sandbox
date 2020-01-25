@@ -79,7 +79,8 @@ In Python one of the possible way of dealing with NA or missing values is by rep
 
 # Learning how to use Machine Learning
 
-This is my learning journey to Machine Learning, using the knn K Nearest Neighbour. This is an example of supervised learning, where the samples are already labelled.
+This is my learning journey to Machine Learning, using the knn K Nearest Neighbour. This is an example of unsupervised learning. The KNN algorithm uses unlabelled data. The distance is computed using Euclidean distance. In this python script, we are using knn where n =3. random_number=1 means that the parameter to random number generator is 1. The same sequence of random number is generated if the seed is the same. This is to make the split the same and the results reproducible if the same seed is used.
+
 This is the famous Iris dataset freely available in many sites.
 
 There are 4 features, which are named as sepal length, sepal width, petal length and petal width. 
@@ -87,8 +88,7 @@ There are 4 features, which are named as sepal length, sepal width, petal length
 The 3 different species of iris are Setosa, Versicolor and Virginica.
 There are 150 observations in this dataset.
 
-
-
+test_size is 0.4 means that 40 percent * 150 = 60 rows of test samples were used, 90 rows were used for training set.
 
 **ModelLearningExample.ipynb**
 
