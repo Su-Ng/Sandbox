@@ -79,7 +79,7 @@ In Python one of the possible way of dealing with NA or missing values is by rep
 
 # Learning how to use Machine Learning
 
-This is my learning journey to Machine Learning, using the knn K Nearest Neighbour. This is an example of unsupervised learning. The KNN algorithm uses unlabelled data. The distance is computed using Euclidean distance. In this python script, we are using knn where n =3. random_number=1 means that the parameter to random number generator is 1. The same sequence of random number is generated if the seed is the same. This is to make the split the same and the results reproducible if the same seed is used.
+This is my learning journey to Machine Learning, using the knn K Nearest Neighbour. This is an example of unsupervised learning. The KNN algorithm uses unlabelled data. The distance is computed using Euclidean distance. In this python script, we are using knn where n =3. random_number=1 means that the parameter passed to random number generator is 1. The same sequence of random number is generated if the seed is the same. This is to make the split the same and the results reproducible if the same seed is used.
 
 This is the famous Iris dataset freely available in many sites.
 
