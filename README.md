@@ -79,7 +79,16 @@ In Python one of the possible way of dealing with NA or missing values is by rep
 
 # Learning how to use Machine Learning
 
-This is my learning journey to Machine Learning, using the knn K Nearest Neighbour
+This is my learning journey to Machine Learning, using the knn K Nearest Neighbour. 
+This is the famous Iris dataset freely available in many sites.
+
+There are 4 features, which are named as sepal length, sepal width, petal length and petal width. 
+
+The 3 different species of iris are Setosa, Versicolor and Virginica.
+There are 150 observations in this dataset.
+
+
+
 
 **ModelLearningExample.ipynb**
 
