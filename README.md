@@ -79,7 +79,7 @@ In Python one of the possible way of dealing with NA or missing values is by rep
 
 # Learning how to use Machine Learning
 
-This is my learning journey to Machine Learning, using the knn K Nearest Neighbour. 
+This is my learning journey to Machine Learning, using the knn K Nearest Neighbour. This is an example of supervised learning, where the samples are already labelled.
 This is the famous Iris dataset freely available in many sites.
 
 There are 4 features, which are named as sepal length, sepal width, petal length and petal width. 
