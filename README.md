@@ -92,6 +92,14 @@ test_size is 0.4 means that 40 percent * 150 = 60 rows of test samples were used
 
 **ModelLearningExample.ipynb**
 
+# Generating Word Clouds
+WordClouds help us visualise how frequent the words in a particular text are used. 
+In the R Script, I used Term Document Matrix to describes the frequency of terms that occur in a collection of documents.
+
+GenerateWordCloud.r
+
+
+
 Thanks for reading! Hope you learnt something new! Happy coding!
 
 
