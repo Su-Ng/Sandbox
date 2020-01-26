@@ -98,7 +98,7 @@ In the R Script, I used Term Document Matrix to describes the frequency of terms
 
 GenerateWordCloud.r
 
-
+![GitHub Logo](wordcloud.png)
 
 Thanks for reading! Hope you learnt something new! Happy coding!
 
