@@ -102,7 +102,7 @@ GenerateWordCloud.r
 
 A different algorithm written in Python, just to visualise the word cloud.
 
-![wordcloud image in python](/image/LyricsWordCloud.png]
+![wordcloud image](/image/LyricsWordCloud.png)
 
 
 Thanks for reading! Hope you learnt something new! Happy coding!
