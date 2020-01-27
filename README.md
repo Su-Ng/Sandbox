@@ -116,9 +116,11 @@ The difference in program is due to the algorithm, in the R script, we compute t
       like   3
       rage   3
       see    3
-       ’m    3
+        m    3
    anyway    2 
      back    2
+
+This is shown in the size of the text.
 
 Thanks for reading! Hope you learnt something new! Happy coding!
 
