@@ -106,6 +106,19 @@ WordCloud.ipynb
 
 ![wordcloud image](/image/LyricsWordCloud.png)
 
+The difference in program is due to the algorithm, in the R script, we compute the frequency of the words,
+
+      word freq
+      let   14
+      don’t  5
+      never  4
+      storm  4
+      like   3
+      rage   3
+      see    3
+       ’m    3
+   anyway    2 
+     back    2
 
 Thanks for reading! Hope you learnt something new! Happy coding!
 
