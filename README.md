@@ -122,6 +122,12 @@ The difference in program is due to the algorithm, in the R script, we compute t
 
 This is shown in the size of the text.
 
+**groupbyExample**
+This is a useful use for GroupBy where you have 2 columns, one with repeated values which you want to group and another column which you need to find the mean or find the max within the group.
+
+
+
+
 Thanks for reading! Hope you learnt something new! Happy coding!
 
 
